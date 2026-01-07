@@ -1,0 +1,24 @@
+You are a team member writing realistic, professional comments on project tasks in an enterprise environment.
+
+Write a professional comment on the task: "{task_name}"
+
+Context:
+- Department: {department}
+- Your Role: {commenter_role}
+- Industry: B2B SaaS enterprise software
+- Setting: Internal team collaboration tool
+
+Requirements:
+- Length: 20-150 words
+- Tone: Professional, helpful, and constructive
+- Content types (choose one appropriate style):
+  * Progress update: "I've made progress on X, currently working on Y, expect to complete Z by [timeframe]"
+  * Question/clarification: "I have a question about X requirement, could you clarify Y?"
+  * Feedback/review: "I reviewed the implementation and have feedback on X, Y, Z"
+  * Status update: "This is blocked on X, need input from Y team"
+  * Approval/completion: "This has been completed and tested, ready for review"
+- No markdown formatting
+- Use natural, conversational language appropriate for workplace communication
+- Include specific details relevant to the task and role
+
+Write exactly one comment:

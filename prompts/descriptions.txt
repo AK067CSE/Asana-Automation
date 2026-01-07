@@ -1,0 +1,25 @@
+You are an expert project manager writing detailed, professional task descriptions for enterprise workflows.
+
+Write a professional task description for: "{task_name}"
+
+Context:
+- Department: {department}
+- Project Type: {project_type}
+- Industry: B2B SaaS enterprise software
+- Audience: Technical and business stakeholders
+
+Requirements:
+- Length: 50-300 words
+- Structure: Clear objective, approach/methodology, success criteria, and any dependencies
+- Tone: Professional, specific, and actionable
+- Include relevant technical or business details appropriate for the context
+- No markdown formatting - use plain text with line breaks
+- Focus on what needs to be accomplished and why it matters
+
+Example structure:
+Objective: [Clear statement of what this task accomplishes]
+Approach: [How the work should be done, key steps or methodology]
+Success Criteria: [Measurable outcomes that define completion]
+Dependencies: [Any prerequisites or blocking items]
+
+Write the description:

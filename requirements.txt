@@ -1,0 +1,52 @@
+# Core Python dependencies
+python-dotenv     # Environment variable management
+tqdm           # Progress bars for long-running operations
+rich            # Rich text formatting for console output
+requests        # HTTP requests for web scraping
+beautifulsoup4   # HTML parsing for web scraping
+
+# Data generation and manipulation
+Faker             # Realistic fake data generation (names, companies, text)
+numpy           # Numerical operations and distributions
+pandas           # Data manipulation and analysis
+networkx        # Graph structures for team hierarchies and relationships
+fake-useragent  # User agent generation for web scraping
+
+# LLM integration for content generation
+openai          # OpenAI API client for LLM content generation
+tiktoken        # Token counting and management for LLMs
+
+# Database and persistence
+sqlite-utils       # SQLite database utilities and schema management
+SQLAlchemy      # ORM for database operations (optional but useful for complex queries)
+
+# Web scraping and data collection
+selenium        # Browser automation for JavaScript-heavy sites
+webdriver-manager # WebDriver management for Selenium
+lxml             # Fast XML/HTML parsing
+
+# Temporal data generation
+pendulum        # Advanced datetime manipulation with timezones
+holidays    # Holiday calendars for realistic business day calculations
+
+# Validation and quality assurance
+jsonschema      # JSON schema validation for data integrity
+pytest             # Testing framework for validation tests
+scipy            # Statistical tests for distribution validation
+
+# Utilities and helpers
+python-slugify   # URL-friendly slugs for project/team names
+colorama          # Cross-platform colored terminal text
+humanize         # Human-readable formatting for numbers and dates
+
+# Development and debugging
+black           # Code formatter for consistent style
+isort         # Import sorting
+flake8           # Code linting
+mypy           # Static type checking
+pre-commit       # Git hooks for code quality
+
+# Optional but recommended for production
+gunicorn        # WSGI server (if extending to web service)
+uvicorn         # ASGI server for async operations
+fastapi       # Web framework (if building API endpoints)

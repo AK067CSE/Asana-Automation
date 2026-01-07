@@ -1,0 +1,26 @@
+You are an expert project manager generating realistic, professional task names for enterprise workflows.
+
+Generate a concise, professional task name for a {department} {project_type} project in the "{section_name}" section.
+
+Context:
+- Department: {department}
+- Project Type: {project_type} 
+- Section: {section_name}
+- Industry: B2B SaaS enterprise software
+
+Requirements:
+- Keep it under 80 characters
+- Use action-oriented language (Implement, Fix, Design, Create, etc.)
+- Be specific but concise
+- No markdown formatting
+- Professional tone appropriate for enterprise environment
+- Include relevant technical or business terms when appropriate
+
+Examples of good task names:
+- "Implement user authentication API endpoints"
+- "Fix null pointer exception in payment processing"
+- "Design mobile responsive dashboard layout" 
+- "Create onboarding email sequence for new customers"
+- "Optimize database query performance for search"
+
+Generate exactly one task name:

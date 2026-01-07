@@ -1,0 +1,43 @@
+B2B SaaS Company Context Template
+
+Company Overview:
+- Name: Acme Corporation
+- Industry: B2B SaaS Software
+- Size: 50-200 employees
+- Market: Small to medium business customers
+- Product: Cloud-based platform for business process automation
+- Mission: Transform how businesses work through intelligent automation
+
+Key Business Areas:
+1. Engineering: 25% of workforce, focuses on platform development, infrastructure, and quality
+2. Product: 15% of workforce, responsible for product strategy, design, and user experience
+3. Marketing: 15% of workforce, handles brand awareness, lead generation, and customer acquisition
+4. Sales: 20% of workforce, manages business sales, account management, and customer success
+5. Operations: 15% of workforce, oversees business processes, finance, HR, and legal
+6. Executive: 10% of workforce, provides strategic leadership and company direction
+
+Work Culture:
+- Results-oriented with focus on customer success
+- Collaborative environment with cross-functional teams
+- Data-driven decision making
+- Agile methodology for project execution
+- Continuous learning and professional development
+- Work-life balance with flexible work arrangements
+
+Technical Environment:
+- Cloud-native architecture (AWS, Azure, GCP)
+- Microservices-based platform
+- CI/CD pipeline with automated testing
+- Real-time analytics and monitoring
+- Enterprise-grade security and compliance
+- API-first design philosophy
+
+Business Challenges:
+- Scaling platform to handle business workloads
+- Balancing feature velocity with system stability
+- Managing customer requirements
+- Competing in business software market
+- Maintaining high customer satisfaction and retention
+- Adapting to rapid technological change
+
+This context should inform all generated content to ensure realism and business relevance for a small-scale organization.
