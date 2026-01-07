@@ -8,6 +8,14 @@ Running `python src/main.py` creates:
 
 - **SQLite database** at `output/asana_simulation.sqlite`
 - **Entities**: organizations, teams, users, team memberships, projects, sections, tasks, subtasks, comments, tags, task-tags, custom fields
+##Screenshots
+Projects
+<img width="1520" height="748" alt="image" src="https://github.com/user-attachments/assets/71b01011-1d9e-4f51-ba30-8eceaa884222" />
+  Sections
+  <img width="1553" height="742" alt="image" src="https://github.com/user-attachments/assets/654d78c1-5e87-4ce3-8518-9124e62711fd" />
+  
+
+
 
 ## Documentation
 
